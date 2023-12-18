@@ -2,6 +2,7 @@
 int main(){
 	int a;
 	std::cin >> a;
+	std::cout << "dodawanie";
 	std::cout << a+10 << "\n";
 	std::cout << "odejmowanie";
 	std::cout << a-10 << "\n";
